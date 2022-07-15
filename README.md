@@ -1,6 +1,12 @@
 # Digital Booking
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/U9sWiqL4H6A/0.jpg)](https://youtu.be/U9sWiqL4H6A)
+<div align="center">
+      <a href="https://youtu.be/U9sWiqL4H6A">
+     <img 
+      src="https://img.youtube.com/vi/U9sWiqL4H6A/0.jpg" 
+      alt="Digital Booking" 
+      style="width:100%;">
+      </a>
+</div>
 
 ## Acerca de nuestro proyecto:
 El proyecto integrador es un proyecto pensado por Digital House que involucra todas las asignaturas vistas durante la carrera Certified Tech Developer como base técnica. El objetivo del proyecto es continuar con la metodología “aprender haciendo” simulando un escenario laboral real y la cultura de la industria tecnológica, desarrollando una aplicación web en equipo. En este caso se nos pidió desarrollar Digital Booking una plataforma digital dedicada a la oferta de alquileres temporales. La empresa se divide en tres ramas: alquiler de autos, hoteles y posadas, y casas y departamentos. Nuestro equipo eligió desarrollar la rama de hoteles y posadas.
