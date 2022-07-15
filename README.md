@@ -1,6 +1,6 @@
 # Digital Booking
 <div align="center">
-      <a target="_blank" href="https://youtu.be/U9sWiqL4H6A">
+      <a href="https://youtu.be/U9sWiqL4H6A" target="_blank">
      <img 
       src="https://img.youtube.com/vi/U9sWiqL4H6A/0.jpg" 
       alt="Digital Booking" 
