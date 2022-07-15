@@ -4,7 +4,7 @@
      <img 
       src="https://img.youtube.com/vi/U9sWiqL4H6A/0.jpg" 
       alt="Digital Booking" 
-      style="width:100%;">
+      >
       </a>
 </div>
 
