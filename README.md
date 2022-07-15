@@ -1,6 +1,6 @@
 # Digital Booking
 <div align="center">
-      <h2>Digital booking video</h2>
+      <h2>Video demostrativo</h2>
       <a href="https://youtu.be/U9sWiqL4H6A" target="_blank">
      <img 
       src="https://img.youtube.com/vi/U9sWiqL4H6A/0.jpg" 
